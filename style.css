@@ -1,0 +1,29 @@
+body{
+	background-color: #f0f0f0;
+	color:rgb(134, 0, 134);
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2{
+	padding: 20px;
+	text-align: center;
+}
+
+h2{
+	font-size: x-large;
+}
+
+h3{
+	font-size: large;
+}
+
+p{
+	padding: 10px;
+}
+
+/* a:visited{
+
+} */
